@@ -1,0 +1,74 @@
+body{
+    background-image:url("https://wallpapercave.com/wp/wp2718170.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+#heading{
+    
+    color : aliceblue;
+    
+}
+#heading2{
+ color: aliceblue;
+}
+
+.paragraf{
+    background-color: yellowgreen;
+    color: white;
+    text-align: justify;
+}
+
+.odd{
+    background-color: bisque;
+    color:black;
+    padding:30px;
+    padding-left: 50px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    padding-inline-start: 30px;
+    margin: 20px;
+
+}
+.even{
+    background-color: bisque;
+    color:black;
+    padding:30px;
+    padding-left: 50px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    padding-inline-start: 30px;
+    margin: 20px;
+}
+
+#heading2{
+    background-color: aliceblue
+    color  black;
+}
+box1{
+    position: relative;
+    left:70px;
+    top:20px;
+    width:50px;
+    height:50px;
+    background-color: red;
+}
+#heading3{
+
+    color:white;
+
+}
+.odd1{
+    background-color: bisque;
+    color:black;
+    padding:30px;
+    padding-left: 50px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    padding-inline-start: 30px;
+    margin: 20px;
+}
